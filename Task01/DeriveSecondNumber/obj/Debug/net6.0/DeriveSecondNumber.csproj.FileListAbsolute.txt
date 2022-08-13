@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\bin\Debug\net6.0\DeriveSecondNumber.exe
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\bin\Debug\net6.0\DeriveSecondNumber.deps.json
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\bin\Debug\net6.0\DeriveSecondNumber.runtimeconfig.json
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\bin\Debug\net6.0\DeriveSecondNumber.dll
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\bin\Debug\net6.0\DeriveSecondNumber.pdb
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.AssemblyInfo.cs
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.dll
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\refint\DeriveSecondNumber.dll
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.pdb
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\DeriveSecondNumber.genruntimeconfig.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task01\DeriveSecondNumber\obj\Debug\net6.0\ref\DeriveSecondNumber.dll
