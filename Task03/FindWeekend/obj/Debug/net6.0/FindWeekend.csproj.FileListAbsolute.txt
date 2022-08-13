@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\bin\Debug\net6.0\FindWeekend.exe
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\bin\Debug\net6.0\FindWeekend.deps.json
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\bin\Debug\net6.0\FindWeekend.runtimeconfig.json
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\bin\Debug\net6.0\FindWeekend.dll
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\bin\Debug\net6.0\FindWeekend.pdb
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.AssemblyInfo.cs
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.dll
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\refint\FindWeekend.dll
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.pdb
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\FindWeekend.genruntimeconfig.cache
+C:\Users\123ir\Desktop\HomeWork02\HomeWork\Task03\FindWeekend\obj\Debug\net6.0\ref\FindWeekend.dll
